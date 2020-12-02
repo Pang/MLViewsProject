@@ -10,3 +10,14 @@ I was let down to see a 0.0007326007326007326% accuracy when predicting but feel
 ### Test 2
 Used a Support Vector Regression (SVR) algo this time and got -0.058562924377011605% accuracy :(
 
+### Test 3
+Linear regression: -17.792931238184103%
+
+### Test 4
+Changed the features, tested predictions of how many views a video has from likes/dislikes and the score was 0.7290173774892932%. Not amazing but an improvement.
+When looking at these predictions side by side (heres the first 3) it doesnt look too far!
+| Prediction  | Actual   |
+| :---------: | :------: | 
+| 1424143     | 1675844  |
+| 21919310    | 21344664 | 
+| 1922427     | 1138884  |
