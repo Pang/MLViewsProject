@@ -21,3 +21,11 @@ When looking at these predictions side by side (heres the first 3) it doesnt loo
 | 1424143     | 1675844  |
 | 21919310    | 21344664 | 
 | 1922427     | 1138884  |
+
+### Test 5
+Implementing an ANN gave confusing results as sometimes it did better and sometimes worse, I think overall better but since Keras doesn't have a metrics API I will have to dive into this a bit more
+| Prediction  | Actual   |
+| :---------: | :------: | 
+| 1083568     | 1675844  |
+| 21749090    | 21344664 |
+| 1587554     | 1138884  |
